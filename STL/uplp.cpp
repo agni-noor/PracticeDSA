@@ -3,6 +3,8 @@ using namespace std;
 
 // Upper bound returns the greater number of the passed number
 // Lower bound returns the numberif present, greater if not present
+// uses binary search in case of vectors and arrays
+// Uses trees in case of maps,sets
 int main()
 {
     int n;
